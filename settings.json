@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fees38573948234-2rK0.aternos.me",
+    "ip": "fees38573948234-2rK0.aternos.me:37167",
     "port": 37167,
     "version": "",
     "try-creative": false
